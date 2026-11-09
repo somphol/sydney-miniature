@@ -87,5 +87,6 @@ Construction order: **geography → plan → buildings/landmarks → environment
 - Local project: `/Users/somphol/sydney-miniature`.
 - Release file: `dist-single/index.html` (~877 KiB).
 - Pages copy: `docs/index.html`; deployed URL: <https://somphol.github.io/sydney-miniature/>.
+  Live-checked 2026-11-08: title, capture API, 8 landmarks, 428 road edges, 276 buildings, 0 external requests.
 - Design brief: `CITY.md`; provenance: `ATTRIBUTION.md`; changes: `CHANGELOG.md`.
 - No secrets, tokens or personal data belong in this repository.
